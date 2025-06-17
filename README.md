@@ -22,8 +22,8 @@ This repository contains my up-to-date **resume (PDF)** along with a short overv
 
 ## 🚀 Projects In Progress
 
-- [To-Do List App](https://github.com/raydev-id/todo-app) – Task tracker with local storage  
-- BMI Calculator (Coming Soon)
+- BMI Calculator (https://ray-bmi-app.netlify.app/)
+- [To-Do List App](coming soon) – Task tracker with local storage  
 
 ---
 
